@@ -1,0 +1,39 @@
+_repo: The-Witch-of-Salem--or-Credulity-Run-Mad_26282
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Carter, F. A. (Freeland A.)
+    alias: Carter, Freeland A.
+    gutenberg_agent_id: '31898'
+    url: http://www.gutenberg.org/2009/agents/31898
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Musick, John R. (John Roy)
+    aliases:
+    - Musick, J. R. (John Roy)
+    - Musick, John Roy
+    birthdate: 1849
+    deathdate: 1901
+    gutenberg_agent_id: '3504'
+    url: http://www.gutenberg.org/2009/agents/3504
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Musick
+description: ''
+gutenberg_issued: '2008-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26282'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Salem (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- !lcsh 'Trials (Witchcraft) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Witches -- Fiction'
+title: The Witch of Salem; or, Credulity Run Mad
+url: http://www.gutenberg.org/ebooks/26282
