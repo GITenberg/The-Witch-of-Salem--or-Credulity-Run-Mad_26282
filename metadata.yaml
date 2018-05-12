@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3504
     wikipedia: http://en.wikipedia.org/wiki/John_R._Musick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26282#The-Witch-of-Salem--or-Credulity-Run-Mad
 gutenberg_issued: '2008-08-12'
 gutenberg_type: Text
 identifiers:
